@@ -1,3 +1,3 @@
 # Monte Carlo FB Ads Prediction
 Using user defined variables, it runs a Monte Carlo prediction to give an estimation of potential FB Ad results
-![Example]("2025-04-03 10_08_48-Figure 1.png")
+![Example]("example.png")
